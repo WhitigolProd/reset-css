@@ -1,0 +1,9 @@
+{
+  "name": "@whitigol/reset-css",
+  "packageManager": "yarn@3.6.3",
+  "main": "index.css",
+  "files": [
+    "index.css"
+  ],
+  "version": "1.0.0"
+}
